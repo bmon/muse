@@ -1,0 +1,6 @@
+setuptools
+cffi
+numpy
+sounddevice
+JACK-Client
+pdbpp
